@@ -1,0 +1,32 @@
+body {
+	background: url(../img/space.jpg) top center no-repeat;
+}
+
+div {
+	margin-top: 380px;
+	margin-left: 590px;
+	width: 500px;
+	height: 500px;
+}
+
+.rocket {
+	width: auto;
+	height: 280px;
+}
+
+.btn {
+	background-color: #F97923;
+	padding: 10px 20px;
+	border-radius: 30px;
+	font-size: 20px;
+	border: 2px solid transparent;
+	outline: none;
+	cursor: pointer;
+}
+
+.title {
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	font-weight: bold;
+}
